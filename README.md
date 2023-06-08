@@ -4,9 +4,9 @@
 ## 一、项目介绍
 我们这个项目就是完成一个完整的博客项目，包含服务端接口API，管理后台，前端网站，以及部署上线流程。为了项目更好的区分，这个项目主要介绍使用 Node.js Koa2 框架开发一套完整的服务端接口 API 项目，另外的项目请点击以下：
 
-- 基于 React.js + Ant Design 实现的博客管理后台：[react-blog-admin](https://github.com/lfb/react-blog-admin)
-- 基于 Vue.js + Element-UI 实现的博客管理后台：[vue-blog-admin](https://github.com/lfb/vue-blog-admin)
-- 基于 Nuxt.js SSR 实现的博客前端展示网站：[nuxtjs-blog-web](https://github.com/lfb/nuxtjs-blog-web)
+- 基于 React.js + Ant Design 实现的博客管理后台：[react-blog-admin](https://github.com/liuyiqian1002/react-blog-admin)
+- 基于 Vue.js + Element-UI 实现的博客管理后台：[vue-blog-admin](https://github.com/liuyiqian1002/vue-blog-admin)
+- 基于 Nuxt.js SSR 实现的博客前端展示网站：[nuxtjs-blog-web](https://github.com/liuyiqian1002/nuxtjs-blog-web)
 
 ### 1.1.项目模块
 使用精小而强大的 Node.js Koa2 框架做服务端 API 接口，非常适合想用 Node.js Koa2 做服务的朋友，相信你一定能学到知识。
@@ -27,7 +27,7 @@
     - 实现评论 / 回复与文章进行关联
 
 ### 1.2.接口文档
-记录和完善接口文档是一个良好的习惯，接口文档放在 doc 目录下，比如管理员的接口文档：[https://github.com/lfb/nodejs-koa-blog/blob/master/doc/admin.md](https://github.com/lfb/nodejs-koa-blog/blob/master/doc/admin.md)
+记录和完善接口文档是一个良好的习惯，接口文档放在 doc 目录下，比如管理员的接口文档：[https://github.com/liuyiqian1002/nodejs-koa-blog/blob/master/doc/admin.md](https://github.com/liuyiqian1002/nodejs-koa-blog/blob/master/doc/admin.md)
 
 ### 1.3.项目展示
 - 前端线上展示地址：www.boblog.com
@@ -38,7 +38,7 @@
 ```
 # 克隆项目代码
 
-git clone https://github.com/lgb/nodejs-koa-blog.git
+git clone https://github.com/liuyiqian1002/nodejs-koa-blog.git
 ```
 
 
@@ -109,12 +109,12 @@ Postman 下载地址：[https://www.postman.com/downloads/](https://www.postman.
 
 2. 启动 Koa2 项目报错，请问原因？
 > 答：首先，请检查一下使用 npm 或 yarn 安装依赖包没。然后，再请检查一下确保安装好数据库，新建好数据库：boblog，请看上面的数据库配置。最后看下启动打印日志是否有报错的信息。
-3. ... 更多问题请到 [Issues](https://github.com/lfb/nodejs-koa-blog/issues)查阅，或者有问题请到 [Issues 提问](https://github.com/lfb/nodejs-koa-blog/issues/new)。
+3. ... 更多问题请到 [Issues](https://github.com/liuyiqian1002/nodejs-koa-blog/issues)查阅，或者有问题请到 [Issues 提问](https://github.com/liuyiqian1002/nodejs-koa-blog/issues/new)。
 
 
 ## License
-[MIT](https://github.com/lfb/nodejs-koa-blog/blob/master/LICENSE), by LFB
+[MIT](https://github.com/liuyiqian1002/nodejs-koa-blog/blob/master/LICENSE), by liuyiqian1002
 
-喜欢或对你有帮助的话，请你点一个星星 <strong style='color:red;'>star</strong> 鼓励我，或者您有更好的建议和意见，请提出来告知我，可以留言 [Issues](https://github.com/lfb/nodejs-koa-blog/issues/new)。希望能够帮助到你学习！Thanks！共勉！
+喜欢或对你有帮助的话，请你点一个星星 <strong style='color:red;'>star</strong> 鼓励我，或者您有更好的建议和意见，请提出来告知我，可以留言 [Issues](https://github.com/liuyiqian1002/nodejs-koa-blog/issues/new)。希望能够帮助到你学习！Thanks！共勉！
 
 
